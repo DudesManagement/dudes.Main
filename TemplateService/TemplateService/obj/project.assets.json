@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GIT\\Playing Around\\TemplateService\\TemplateService\\TemplateService.csproj",
+      "projectUniqueName": "D:\\GIT\\dudes\\dudes.main\\TemplateService\\TemplateService\\TemplateService.csproj",
       "projectName": "TemplateService",
-      "projectPath": "D:\\GIT\\Playing Around\\TemplateService\\TemplateService\\TemplateService.csproj",
+      "projectPath": "D:\\GIT\\dudes\\dudes.main\\TemplateService\\TemplateService\\TemplateService.csproj",
       "packagesPath": "C:\\Users\\David Indrawes\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\Playing Around\\TemplateService\\TemplateService\\obj\\",
+      "outputPath": "D:\\GIT\\dudes\\dudes.main\\TemplateService\\TemplateService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

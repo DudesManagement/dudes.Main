@@ -1,0 +1,13 @@
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\SimpleTest.deps.json
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\SimpleTest.runtimeconfig.json
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\SimpleTest.runtimeconfig.dev.json
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\SimpleTest.dll
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\bin\Debug\netcoreapp2.0\SimpleTest.pdb
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\obj\Debug\netcoreapp2.0\SimpleTest.csproj.CoreCompileInputs.cache
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\obj\Debug\netcoreapp2.0\SimpleTest.AssemblyInfoInputs.cache
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\obj\Debug\netcoreapp2.0\SimpleTest.AssemblyInfo.cs
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\obj\Debug\netcoreapp2.0\SimpleTest.dll
+D:\GIT\dudes\dudes.main\TemplateService\SimpleTest\obj\Debug\netcoreapp2.0\SimpleTest.pdb

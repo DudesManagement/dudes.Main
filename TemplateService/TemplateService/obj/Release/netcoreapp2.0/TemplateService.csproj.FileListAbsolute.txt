@@ -1,0 +1,11 @@
+D:\GIT\Playing Around\TemplateService\TemplateService\bin\Release\netcoreapp2.0\TemplateService.deps.json
+D:\GIT\Playing Around\TemplateService\TemplateService\bin\Release\netcoreapp2.0\TemplateService.runtimeconfig.json
+D:\GIT\Playing Around\TemplateService\TemplateService\bin\Release\netcoreapp2.0\TemplateService.runtimeconfig.dev.json
+D:\GIT\Playing Around\TemplateService\TemplateService\bin\Release\netcoreapp2.0\TemplateService.dll
+D:\GIT\Playing Around\TemplateService\TemplateService\bin\Release\netcoreapp2.0\TemplateService.pdb
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.csprojResolveAssemblyReference.cache
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.csproj.CoreCompileInputs.cache
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.AssemblyInfoInputs.cache
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.AssemblyInfo.cs
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.dll
+D:\GIT\Playing Around\TemplateService\TemplateService\obj\Release\netcoreapp2.0\TemplateService.pdb

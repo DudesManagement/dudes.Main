@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = ./sub
+[submodule "service"]
+	path = service
+	url = https://github.com/DudesManagement/TemplateService.git
